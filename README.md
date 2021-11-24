@@ -12,7 +12,7 @@ Calendars play an important role in our daily work to help us stay on task as we
 
 [![Linux OS Build](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/Build_Linux.yml)
 
-
+[![Windows C/C++ CI](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/windows_c-cpp.yml)
 
 # Folder Structure
 | Folder   |      Description     |  
