@@ -152,6 +152,16 @@ A "CALENDAR" is a system of organizing days. This is done by giving names to per
 Calendars play an important role in our daily work to help us stay on task as well as be productive and prioritize. By using them to schedule our daily work we can avoid distractions and get back on track when interrupted.
 
 
+[![Git Inspector](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/Git_inspector.yml) 
+
+[![Unit_Testing](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/Unit_testing.yml/badge.svg)](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/Unit_testing.yml)
+
+[![Static code Cppcheck](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/cppcheck.yml)
+
+[![Linux OS Build](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/Build_Linux.yml)
+
+[![Windows C/C++ CI](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/windows_c-cpp.yml)
+
 
 CONCLUSION
 
