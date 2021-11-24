@@ -4,6 +4,8 @@ A "CALENDAR" is a system of organizing days. This is done by giving names to per
 
 Calendars play an important role in our daily work to help us stay on task as well as be productive and prioritize. By using them to schedule our daily work we can avoid distractions and get back on track when interrupted.
 
+[![Git Inspector](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/Git_inspector.yml) 
+
 
 # Folder Structure
 | Folder   |      Description     |  
