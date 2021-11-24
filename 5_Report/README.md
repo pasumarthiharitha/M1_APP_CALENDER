@@ -151,15 +151,7 @@ A "CALENDAR" is a system of organizing days. This is done by giving names to per
 
 Calendars play an important role in our daily work to help us stay on task as well as be productive and prioritize. By using them to schedule our daily work we can avoid distractions and get back on track when interrupted.
 
-[![Windows C/C++ CI](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Windows_c-cpp.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Windows_c-cpp.yml)
 
-[![Static code Cppcheck](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/cppcheck.yml)
-
-[![Unit_Testing](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Unit_Testing.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Unit_Testing.yml)
-
-[![Linux OS Build](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Build_Linux.yml)
-
-[![Git Inspector](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Git_Inspector.yml)
 
 CONCLUSION
 
