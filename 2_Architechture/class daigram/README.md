@@ -1,3 +1,4 @@
+![Class Diagram](https://user-images.githubusercontent.com/94337009/143289557-8df41cf9-53f8-4d21-b5bf-50bc8e06e4b4.png)
 
 # CLASS DIAGRAM
 
