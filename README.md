@@ -10,7 +10,7 @@ Calendars play an important role in our daily work to help us stay on task as we
 
 [![Static code Cppcheck](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/cppcheck.yml)
 
-
+[![Linux OS Build](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/Build_Linux.yml)
 
 
 
