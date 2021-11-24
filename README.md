@@ -8,7 +8,7 @@ Calendars play an important role in our daily work to help us stay on task as we
 
 [![Unit_Testing](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/Unit_testing.yml/badge.svg)](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/Unit_testing.yml)
 
-
+[![Static code Cppcheck](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/cppcheck.yml)
 
 
 
