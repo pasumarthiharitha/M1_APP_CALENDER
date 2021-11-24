@@ -1,5 +1,5 @@
 # M1_APP_CALENDER
-
+[![Linux C/C++ CI](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/pasumarthiharitha/M1_APP_CALENDER/actions/workflows/c-cpp.yml)
 
 
 
