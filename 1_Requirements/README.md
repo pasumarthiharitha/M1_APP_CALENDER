@@ -6,13 +6,7 @@ A "CALENDAR" is a system of organizing days. This is done by giving names to per
 
 Calendars play an important role in our daily work to help us stay on task as well as be productive and prioritize. By using them to schedule our daily work we can avoid distractions and get back on track when interrupted.
 
-## RESEARCH 
-
-[Refer to this link](https://www.projectplan365.com/training/lesson-4-project-calendar/)
-
-## COST AND FEATURES AND TIMELINE
-
-![image](https://d3uigcfkiiww0g.cloudfront.net/wordpress/blog/pics-en/uploads/99-day-study-schedule-usmle-step-1.jpg)
+## COST FEATURES AND TIMELINE
 
 ## 1.Cost  
 
@@ -61,6 +55,7 @@ Expensive.
 # OPP0RTUNITIES 
  
 A calendar of funding and research opportunities, internships, calls for papers, fellowships, prizes, and job postings that may be of interest to our students, faculty, and alums.
+
 # Threats
 ```sh
 Data corruption is possible, altering or even deleing events.
@@ -71,23 +66,23 @@ Dependent on technology.
 
 ## 4W's and 1'H 
 
-Who 
+# Who 
 
 Calendar
 
-What 
+# What 
 
 This is done by giving names/events to periods of time, typically days, weeks, months and years. 
 
-When 
+# When 
 
 It is used at specific events/remainder (i.e., Birthday's, Anniversary, Interviews, Meetings etc.)
 
-Where 
+# Where 
 
 We can look at mobile phones, google , Desktops , Laptops with different different modules.
 
-How 
+# How 
 
 By taking new modules with different updates with latest feature of remainder of events/work/meetings by adding a note.
 
